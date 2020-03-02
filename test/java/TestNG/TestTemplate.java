@@ -17,7 +17,7 @@ public class TestTemplate {
         System.setProperty ( "webdriver.chrome.driver", "resources/chromedriver"  );
         driver = new ChromeDriver (  );
     }
-    /*BURAYA TEST YAZIYORUZ!!!.......*/
+    /*BURAYA TEST YAZIYORUZ!!!............*/
 
 //    @Test
 //
